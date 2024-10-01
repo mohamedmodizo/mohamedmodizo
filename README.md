@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohamedmodizo
 - 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning at lux academy
+- 🌱 I’m currently learning at lux academy and Data Camp
 - 💞️ I’m looking to collaborate on github and any other platform
 - 📫 How to reach me via linkedin account https://www.linkedin.com/feed/ and email: mohamedmodizo@gmail.com
 - 😄 Pronouns: ...
