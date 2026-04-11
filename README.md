@@ -70,11 +70,11 @@ Here are some of the projects on my GitHub:
 - **SQL Practice and Analysis Projects**  
   SQL notebooks and query exercises focused on extracting insights from data.
 
-- **Green Foods**  
-  A web-based project built with HTML.
+- **Contractor's Software**  
+  A web-based project built with Python.
 
 - **More Data Projects Coming Soon**  
-  I am actively working on stronger public projects in analytics, visualization, and machine learning.
+  I am actively working on stronger public projects in analytics, visualisation, and machine learning.
 
 > I am continuously improving my repositories by adding better documentation, cleaner code, and clearer project structure.
 
